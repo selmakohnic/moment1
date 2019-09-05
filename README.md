@@ -5,3 +5,5 @@
 3. Skapa ett konto på [**GitHub**](www.github.com)
 4. Skapa ett nytt **remote repository** och **projekt** 
 5. Skapa en **README.md-fil** med **markdown** och ge en kort beskrivning av uppgiften/repositoriet 
+
+För att klona mitt projekt använd följande kommando: git clone https://github.com/selmakohnic/moment1.git
